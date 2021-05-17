@@ -1,0 +1,9 @@
+Basically it takes any number of characters inside the second buffer
+
+It saves the strcmp result after this buffer
+
+So, I can calculate the offset of the strcmp result and enter suitable number of characters 
+
+scanf puts a NULL TERMINATOR at the end of the buffer so I can enter number of charcters and NULL TERMINATOR instead of the strcmp result
+
+BOOOM I GET GOODBOY MSG 
